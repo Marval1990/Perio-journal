@@ -2,7 +2,7 @@
 
 Steg-for-steg journalføring av periodontittbehandling etter HELFO stønadspunkt 6a og 6b.
 
-**Bruk på nett:** https://marval1990.github.io/perio-journal/
+**Bruk på nett:** https://marval1990.github.io/Perio-journal/
 
 Velg timen du setter opp, kryss av og fyll inn, og kopier ferdig journaltekst inn i Opus:
 
